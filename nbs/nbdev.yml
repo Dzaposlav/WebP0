@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "WebP0"
+  site-url: "https://Dzaposlav.github.io/WebP0"
+  description: "Web sandbox"
+  repo-branch: main
+  repo-url: "https://github.com/Dzaposlav/WebP0"
